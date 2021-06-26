@@ -1,0 +1,10 @@
+pandas
+matplotlib
+sklearn
+seaborn
+glob
+numpy
+random
+PIL
+pickle
+EMD-signal
